@@ -1,5 +1,5 @@
 # Analysis-Of-News-Broadcast-Video
-Computer Vision Video Analysis Project
+CSC420 Computer Vision Project
 
 Authors: Hantang Li, Hongyi Sun
 ----------------------------------------------------------------
