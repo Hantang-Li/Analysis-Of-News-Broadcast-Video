@@ -1,4 +1,4 @@
-# News Video Editor
+# Analysis-Of-News-Broadcast-Video
 CSC420 Computer Vision Project
 
 Authors: Hantang Li, Hongyi Sun
