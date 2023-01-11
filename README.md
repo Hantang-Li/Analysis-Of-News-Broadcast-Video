@@ -1,9 +1,9 @@
-# Analysis-Of-News-Broadcast-Video
+# News Video Editor
 CSC420 Computer Vision Project
 
 Authors: Hantang Li, Hongyi Sun
 ----------------------------------------------------------------
-Analyzed News Broadcast Videos and Implemented shot detection, Logo Detection, Face Detection and Face Association algorithms. With some hypotheses and experiments on ways to improve some algorithms. I built a shot detection algorithm by evaluating the local variance of histogram difference, the algorithm performed better on news clips than thresholding colour histogram and edge change ratio. I also implemented two face association algorithms based on the cost of the face
+Analyzed News Broadcast Videos and Implemented shot detection, Logo Detection, Face Detection and Face Association algorithms that can be used in news video editing software. With some hypotheses and experiments on ways to improve some algorithms. I built a shot detection algorithm by evaluating the local variance of histogram difference, the algorithm performed better on news clips than thresholding colour histogram and edge change ratio. I also implemented two face association algorithms based on the cost of the face
 
 
 To produce the final result, please follow the following steps:
